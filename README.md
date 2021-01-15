@@ -36,11 +36,11 @@ fvm install --save --folder=esx esx-org/esx_lcn
 ### Using Git
 ```
 cd resources
-git clone https://github.com/ESX-Org/esx_lcn [esx]/esx_lcn
+git clone https://github.com/MaxFivem01/esx_lcn.git
 ```
 
 ### Manually
-- Download https://github.com/ESX-Org/esx_policejob/archive/master.zip
+- Download https://github.com/MaxFivem01/esx_lcn.git
 - Put it in the `[esx]` directory
 
 

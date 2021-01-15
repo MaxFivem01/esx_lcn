@@ -1,4 +1,6 @@
 # esx_lcn
+In der config muss man dan noch die koordinaten ändern dan sollter alles perfekt sein 
+Bei weiteren Fragen einfach auf discord adden Maxiboy#1548
 
 This resource for ESX adds LCN armories, vehicle garages and ability for cops to search, handcuff people and much more.
 
